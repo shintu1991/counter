@@ -1,0 +1,35 @@
+* {
+    padding: 2px;
+    margin: 2px;
+}
+
+section {
+    align-items: center;
+    height: 30vh;
+    display: flex;
+    flex-direction: column;
+    background-color: grey;
+}
+
+h1,
+.btn-increment {
+    font-size: large;
+    padding: 3px;
+    margin: 2px;
+    border: solid;
+    background-color: antiquewhite;
+    color: black;
+    text-align: center;
+    align-items: center;
+}
+
+.btn-decrement {
+    font-size: large;
+    padding: 5px;
+    margin: 2px;
+    border: solid;
+    background-color: antiquewhite;
+    color: black;
+    text-align: center;
+    align-items: center;
+}
